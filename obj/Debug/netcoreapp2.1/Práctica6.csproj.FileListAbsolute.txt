@@ -1,0 +1,11 @@
+C:\Users\Adonay VM\Desktop\C#\Práctica6\obj\Debug\netcoreapp2.1\Práctica6.csprojAssemblyReference.cache
+C:\Users\Adonay VM\Desktop\C#\Práctica6\obj\Debug\netcoreapp2.1\Práctica6.csproj.CoreCompileInputs.cache
+C:\Users\Adonay VM\Desktop\C#\Práctica6\obj\Debug\netcoreapp2.1\Práctica6.AssemblyInfoInputs.cache
+C:\Users\Adonay VM\Desktop\C#\Práctica6\obj\Debug\netcoreapp2.1\Práctica6.AssemblyInfo.cs
+C:\Users\Adonay VM\Desktop\C#\Práctica6\bin\Debug\netcoreapp2.1\Práctica6.deps.json
+C:\Users\Adonay VM\Desktop\C#\Práctica6\bin\Debug\netcoreapp2.1\Práctica6.runtimeconfig.json
+C:\Users\Adonay VM\Desktop\C#\Práctica6\bin\Debug\netcoreapp2.1\Práctica6.runtimeconfig.dev.json
+C:\Users\Adonay VM\Desktop\C#\Práctica6\bin\Debug\netcoreapp2.1\Práctica6.dll
+C:\Users\Adonay VM\Desktop\C#\Práctica6\bin\Debug\netcoreapp2.1\Práctica6.pdb
+C:\Users\Adonay VM\Desktop\C#\Práctica6\obj\Debug\netcoreapp2.1\Práctica6.dll
+C:\Users\Adonay VM\Desktop\C#\Práctica6\obj\Debug\netcoreapp2.1\Práctica6.pdb
