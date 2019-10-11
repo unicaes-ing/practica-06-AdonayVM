@@ -21,17 +21,19 @@ namespace Práctica6
                                   "\n [3] Verde" +
                                   "\n [4] Amarillo");
                 colorp = Convert.ToInt32(Console.ReadLine());
+                Console.Clear();
+                Console.WriteLine("Tabla del " + nump + ":\n" + tabla(nump, colorp));
             }
             catch (FormatException)
             {
                 Console.WriteLine("Color de predeterminado.");
+                Console.WriteLine("Tabla del " + nump + ":\n" + tabla(nump));
+
             }
             goto SALIDA;
 
                 SALIDA: 
-
-            Console.Clear();
-            Console.WriteLine("Tabla del " + nump + ":\n" + tabla(nump));
+            
             Console.ReadKey();
         }
 
@@ -49,7 +51,7 @@ namespace Práctica6
             return multi;
         }
 
-        static string tabla(int num, int color = 5)
+        static string tabla(int num, int color)
         {
 
             switch (color)

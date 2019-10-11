@@ -134,7 +134,6 @@ namespace Práctica6
 
         static void Dibujo(int ancho, int alto, string cara, int X, int Y)
         {
-            Console.SetCursorPosition(X, Y);
             string figura = "";
             for (int i = 1; i <= alto; i++)
             {
@@ -159,6 +158,7 @@ namespace Práctica6
                     }
                 }
             }
+            Console.SetCursorPosition(X, Y);
             Console.WriteLine(figura);
         }
     }
